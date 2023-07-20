@@ -1,6 +1,5 @@
 **I'm Pugno**  
 dev & bug hunter
-
 <div>
   <a href="https://github.com/pugn0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pugn0&layout=compact&langs_count=16&theme=dark"/>
