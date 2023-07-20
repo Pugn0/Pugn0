@@ -1,6 +1,5 @@
 **I'm Pugno**  
-dev & bug hunter  
-I make tech & hacking content for youtube...   
+dev & bug hunter
 
 <div>
   <a href="https://github.com/pugn0">
