@@ -9,7 +9,7 @@ dev & bug hunter
         <img align="center" alt="Zac-Python" height="40" width="50" src="https://icongr.am/devicon/python-original.svg?size=97&color=currentColor">
         <img align="center" alt="Zac-C++" height="40" width="50" src="https://icongr.am/devicon/cplusplus-original.svg?size=97&color=currentColor">
         <img align="center" alt="Zac-Java" height="40" width="50" src="https://icongr.am/devicon/java-original.svg?size=97&color=currentColor">
-        <img align="center" alt="Zac-PHP" height="40" width="50" src="https://icongr.am/devicon/postgresql-original.svg?size=97&color=currentColor">
+        <img align="center" alt="Zac-PHP" height="40" width="50" src="https://icongr.am/devicon/php-original.svg?size=97&color=currentColor">
      </div>
       <hr>
 
