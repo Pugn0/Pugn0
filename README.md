@@ -35,4 +35,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pugn0&layout=compact&langs_count=10&theme=dark)
 
 ## 📫 Let's Connect
-- 💼 Telegram: [Pugno](https:/t.me/pugno_fc)
+- 💼 Telegram: [Pugno](https://t.me/pugno_fc)
