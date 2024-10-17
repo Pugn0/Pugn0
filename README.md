@@ -36,3 +36,6 @@
 
 ## 📫 Let's Connect
 - 💼 Telegram: [Pugno](https://t.me/pugno_fc)
+
+<h2 align="center">👁️ Views</h3>
+<p align="center"><img src="https://count.getloli.com/get/@pugn0?theme=rule34" /></p>
