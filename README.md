@@ -1,41 +1,36 @@
-# 👋 Hello World! I'm Pugno
+<h1 align="center"><code>Pugno</code></h1>
 
-## 🚀 About Me
+<div align="center">
+  <img src="https://img.shields.io/badge/Role-Developer-informational?style=flat-square&logo=python&logoColor=white&color=blue" />
+  <img src="https://img.shields.io/badge/Security-Bug%20Hunter-critical?style=flat-square&logo=bugcrowd&logoColor=white&color=red" />
+  <img src="https://img.shields.io/badge/Focus-Automation%20%7C%20Bots-blueviolet?style=flat-square&logo=automation&color=purple" />
+</div>
 
-- 💻 Software Developer & Bug Hunter
-- 🎓 Computer Science Student
-- 🌱 Always learning and exploring new technologies
+---
 
-## 🛠️ Technologies & Tools
+## 🧠 Sobre
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+- <img src="https://img.icons8.com/ios-filled/12/26ace7/source-code.png"/> Desenvolvedor de Software com foco em automações e engenharia reversa
+- <img src="https://img.icons8.com/ios-filled/12/26ace7/hacker.png"/> Caçador de bugs e explorador de falhas lógicas
+- <img src="https://img.icons8.com/ios-filled/12/26ace7/console.png"/> Especialista em depuração HTTP e análise de tráfego
 
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+---
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+## <img src="https://img.icons8.com/ios-glyphs/16/26ace7/github.png"/> GitHub Insights
 
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pugn0&layout=compact&langs_count=10&theme=tokyonight" />
+</div>
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pugn0&layout=compact&langs_count=10&theme=dark)
+---
 
-## 📫 Let's Connect
-- 💼 Telegram: [Pugno](https://t.me/pugno_fc)
+## <img src="https://img.icons8.com/ios-filled/16/26ace7/send-mass-email.png"/> Contato
 
-<h2 align="center">👁️ Views</h3>
-<p align="center"><img src="https://count.getloli.com/get/@pugn0?theme=rule34" /></p>
+- Telegram: <a href="https://t.me/pugno_fc">https://t.me/pugno_fc</a>
+
+---
+
+<h3 align="center"><img src="https://img.icons8.com/ios-filled/14/26ace7/visible.png"/> Visualizações</h3>
+<p align="center">
+  <img src="https://count.getloli.com/get/@pugn0?theme=rule34" />
+</p>
